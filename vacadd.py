@@ -13,5 +13,8 @@ def dotProduct(l1, l2):
         
     return sum
 
+print("Product")
+print("Product")
+print("Product")
 print(dotProduct([2,3], [3,4,5]))
 
